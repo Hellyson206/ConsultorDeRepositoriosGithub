@@ -12,7 +12,6 @@ Ao selecionar o repositorio desejado, o usuario será levado a uma nova lista ma
 
 ![Segunda tela com pull requests](https://github.com/Hellyson206/ConsultorDeRepositoriosGithub/blob/master/Assets/gif2.gif)
 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Segunda tela com pull requests](https://github.com/Hellyson206/ConsultorDeRepositoriosGithub/blob/master/Assets/gif2.gif))  |  Texto aleatorio
 
